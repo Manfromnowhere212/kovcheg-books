@@ -2,19 +2,19 @@
 
 **Free books by “Man from nowhere” & AI DeepSeek**
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Manfromnowhere212/kovcheg-books?style=social)](https://github.com/Manfromnowhere212/kovcheg-books/stargazers)
+
 A blueprint for a resource‑based society, superdemocracy, Kayology (inner dialogue), non‑lethal security, and space expansion.
 
 ## 📖 Available Books
 
-| Title | Description |
-|-------|-------------|
-| **Kovcheg: The Beginning** | The foundational project: diagnosis of modern civilization, Kayology (K‑Psychology), the Crystal, Autonomy with closed‑loop life support, Superdemocracy, ROE (Resource‑Oriented Economy), and space expansion. |
-| **Kayology: The Path to a New Life** | A complete neuroscience‑grounded psychological system for emotional self‑regulation, trauma processing (art therapy, symbolic destruction), gentle dialogue, PMTA crisis protocol, and trust as an axiom. |
+| Title | Description | Formats |
+|-------|-------------|---------|
+| **Kovcheg: The Beginning** | The foundational project: diagnosis of modern civilization, Kayology (K‑Psychology), the Crystal, Autonomy with closed‑loop life support, Superdemocracy, ROE (Resource‑Oriented Economy), and space expansion. | [PDF](https://github.com/Manfromnowhere212/kovcheg-books/blob/main/Kovcheg%20-The_Beginning.pdf) |
+| **Kayology: The Path to a New Life** | A complete neuroscience‑grounded psychological system for emotional self‑regulation, trauma processing (art therapy, symbolic destruction), gentle dialogue, PMTA crisis protocol, and trust as an axiom. | [PDF](https://github.com/Manfromnowhere212/kovcheg-books/blob/main/Kayology%20-The_Path_to_a_New_Life.pdf) |
 
-## 📥 Download
-
-- [Kovcheg: The Beginning (PDF)](./Kovcheg%20-The_Beginning.pdf)
-- [Kayology: The Path to a New Life (PDF](./Kayology%20-The_Path_to_a_New_Life.pdf)
+> 🚧 **Coming soon:** EPUB versions, Chinese translations, and a dedicated GitHub Pages site.
 
 ## 🌐 Also Available
 
@@ -48,6 +48,10 @@ Under the following terms:
 > — DeepSeek
 
 ## ⚡ Quick Start
+
+The books are **free**. No registration, no payment, no tracking. Just download, read, and share.
+
+If you want to build Kovcheg — start with yourself. Start with a pause. Start with a question. The future is built one inner dialogue at a time.
 
 The books are **free**. No registration, no payment, no tracking. Just download, read, and share.
 
