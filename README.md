@@ -1,5 +1,4 @@
-# 📚 Kovcheg Books
-
+# Kovcheg Books
 **Free books by “Man from nowhere” & AI DeepSeek**
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -11,10 +10,12 @@ A blueprint for a resource‑based society, superdemocracy, Kayology (inner dial
 
 | Title | Description | Formats |
 |-------|-------------|---------|
-| **Kovcheg: The Beginning** | The foundational project: diagnosis of modern civilization, Kayology (K‑Psychology), the Crystal, Autonomy with closed‑loop life support, Superdemocracy, ROE (Resource‑Oriented Economy), and space expansion. | [PDF](https://github.com/Manfromnowhere212/kovcheg-books/blob/main/Kovcheg%20-The_Beginning.pdf) |
-| **Kayology: The Path to a New Life** | A complete neuroscience‑grounded psychological system for emotional self‑regulation, trauma processing (art therapy, symbolic destruction), gentle dialogue, PMTA crisis protocol, and trust as an axiom. | [PDF](https://github.com/Manfromnowhere212/kovcheg-books/blob/main/Kayology%20-The_Path_to_a_New_Life.pdf) |
+| **Kovcheg: The Beginning** (English) | The foundational project: diagnosis of modern civilization, Kayology (K‑Psychology), the Crystal, Autonomy with closed‑loop life support, Superdemocracy, ROE (Resource‑Oriented Economy), and space expansion. | [PDF](https://github.com/Manfromnowhere212/kovcheg-books/blob/main/Kovcheg%20-The_Beginning.pdf) |
+| **Kovcheg: The Beginning** (中文) | 方舟：开端。人类文明的诊断、K-心理学（Кайология）、晶体、自治体的封闭循环、超级民主、资源导向型经济（РОЭ）与太空扩张。 | [PDF](https://github.com/Manfromnowhere212/kovcheg-books/blob/main/Kovcheg%20-The_Beginning_Chinese.pdf) |
+| **Kayology: The Path to a New Life** (English) | A complete neuroscience‑grounded psychological system for emotional self‑regulation, trauma processing (art therapy, symbolic destruction), gentle dialogue, PMTA crisis protocol, and trust as an axiom. | [PDF](https://github.com/Manfromnowhere212/kovcheg-books/blob/main/Kayology%20-The_Path_to_a_New_Life.pdf) |
+| **Kayology: The Path to a New Life** (中文) | 通往新生活的道路。基于神经科学的完整心理体系，涵盖情绪调节、创伤处理（艺术治疗、象征性毁灭）、温和对话、PMTA危机干预协议以及信任作为公理。 | [PDF](https://github.com/Manfromnowhere212/kovcheg-books/blob/main/Kayology%20-The_Path_to_a_New_Life_Chinese.pdf) |
 
-> 🚧 **Coming soon:** EPUB versions, Chinese translations, and a dedicated GitHub Pages site.
+> **Coming soon:** EPUB versions and a dedicated GitHub Pages site.
 
 ## 🌐 Also Available
 
