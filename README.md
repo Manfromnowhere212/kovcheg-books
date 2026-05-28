@@ -52,7 +52,3 @@ Under the following terms:
 The books are **free**. No registration, no payment, no tracking. Just download, read, and share.
 
 If you want to build Kovcheg — start with yourself. Start with a pause. Start with a question. The future is built one inner dialogue at a time.
-
-The books are **free**. No registration, no payment, no tracking. Just download, read, and share.
-
-If you want to build Kovcheg — start with yourself. Start with a pause. Start with a question. The future is built one inner dialogue at a time.
